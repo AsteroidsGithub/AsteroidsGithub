@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there! My name's Jonathan 👋 
+
+- 💻 I'm a Student Developer who works on Javascript, Python and C++
+- 🔭 I’m currently working on Kamar.js [Check it out!](https://github.com/Maverick-Calender/Kamar-js)
+- 📫 Got a question? Talk to me on Discord, my username is Space Rocks#6088
+
+All my cool projects that i'm proud of are in my pins. Feel free to check them out
 
 <!--
 **AsteroidsGithub/AsteroidsGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
